@@ -1,9 +1,9 @@
 import React from 'react'
 
-const signout = () => {
+const Signout = () => {
   return (
-    <div>signout</div>
+    <div>Signout</div>
   )
 }
 
-export default signout
+export default Signout
